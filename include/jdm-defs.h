@@ -22,6 +22,7 @@
 #define b32 u32
 #define b64 u64
 #define pointer void*
+#define sz size_t
 
 #define JDM_TRUE 1
 #define JDM_FALSE 0
