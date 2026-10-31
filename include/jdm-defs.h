@@ -25,6 +25,7 @@
 
 #define JDM_TRUE 1
 #define JDM_FALSE 0
+#define JDM_NULL NULL
 
 // Define function like macros for common utilities
 #define JDM_MIN(a, b) ((a) < (b) ? (a) : (b))
