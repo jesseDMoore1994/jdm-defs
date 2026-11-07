@@ -2,6 +2,7 @@
 #define JDM_DEFS_H
 #include <stddef.h>
 #include <stdint.h>
+#include <string.h>
 
 // Macro to mark a variable as unused to avoid compiler warnings
 #define UNUSED(x) (void)(x)
